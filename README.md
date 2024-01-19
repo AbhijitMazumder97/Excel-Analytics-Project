@@ -39,6 +39,11 @@ Here the main focus is to generate the following reports:
  Comparison of metrics like Net sales, COGS (Cost of Goods Sold), Gross Margin and Gross Margin %(GM%) spanning from 2019 to 2021. Column “21 vs 20” shows the break- down of growth in the all above mentioned metrics in percentages in 2021 as compared to 2020.
 #### P & L by Fiscal Quarters: ####
 Comparison of metrics like Net sales, COGS (Cost of Goods Sold), Gross Margin and Gross Margin %(GM%) for different fiscal quarters spanning from 2019(FY) to 2021(FY). 2021 vs 2020 and 2020 vs 2019 net sales comparison has been made to know the absolute percentage values.
+#### P & L by Fiscal Quarters: ####
+Market-wise comparison of different metrics like Net sales, COGS (Cost of Goods Sold), Gross Margin and Gross Margin %(GM%).
+
+#### GM% by Quarters (sub_zone): #### 
+Comparison of Gross Margin percentage in various subzones for different quarters spanning from fiscal year(FY) 2019 to 2021.
 
 ## Tools and Techniques used for data analysis: ##
 
