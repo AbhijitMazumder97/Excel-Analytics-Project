@@ -1,5 +1,1220 @@
 # Excel Analytics Project
 
+## Project Overview
+
+***AtliQ Hardwares***, a global computer peripherals manufacturer, aims to analyze sales and finance data to gain valuable insights.
+
+### Project 1: Sales Analytics Report
+
+**Purpose:** Empower businesses to monitor and evaluate sales activities and performance.
+
+**Key Reports:**
+
+*1) Customer Net Sales Performance:*
+
+* Compare net sales to customers from 2019 to 2021.
+* Highlight growth in net sales in 2021 compared to the previous year.
+*2) Market Performance vs Targets:*
+- Compare net sales from 2019 to 2021 for respective markets.
+- Assess how the company aligns with sales targets in various markets.
+
+*3)  Top 10 Products Growth (2021):*
+
+- Compare sales of top 10 products from 2020 to 2021, emphasizing 2021 growth.
+
+*4) Division-wise Net Sales (2020 and 2021):*
+- Compare net sales data from 2020 to 2021 across three divisions.
+*5) Top 5 and Bottom 5 Products (Quantity Sold):*
+- Identify top and bottom 5 products based on quantity sold.
+
+*6) New Products Launched (2021):*
+
+        Examine net sales of products launched in 2021.
+
+    Top 5 Countries by Net Sales (2021):
+        Identify top 5 countries/markets in terms of sales in 2021.
+
+Project 2: Finance Analytics Report
+
+Purpose: Evaluate financial performance, support decision-making, and communicate with stakeholders.
+
+Key Reports:
+
+    P & L by Fiscal Years (FY):
+        Compare metrics from 2019 to 2021, showing growth breakdown in 2021.
+
+    P & L by Fiscal Quarters:
+        Compare metrics for different quarters spanning from 2019 to 2021.
+
+    Market-wise P & L:
+        Compare metrics by market for different fiscal years.
+
+    GM% by Quarters (Sub_zone):
+        Compare Gross Margin percentage in various subzones.
+
+Tools and Techniques Used for Data Analysis:
+
+    Power Query:
+        Extract and transform data from csv files/workbooks.
+        Group queries and load transformed data to the data model.
+
+    Power Pivot:
+        Establish connections between dimension and fact tables.
+        Import useful columns, generate calculated columns and measures.
+
+    Pivot Tables:
+        Summarize data in the data model.
+        Perform "Slice and dice" operations to generate reports.
+
+    Conditional Formatting:
+        Highlight metrics figures for easy comparison.
+
+    Miscellaneous Formatting:
+        Insert company name and logo as headers.
+        Insert page numbers as footers.
+
+Soft Skills:
+
+    Refined understanding of Sales & Finance Reports.
+    Designing user-centric reports with empathy.
+    Optimization of report generation through meticulous fine-tuning.
+    Developing a systematic approach to devising a report building plan.
+# Excel Analytics Project
+
+## Project Overview
+
+***AtliQ Hardwares***, a global computer peripherals manufacturer, aims to analyze sales and finance data to gain valuable insights.
+
+### Project 1: Sales Analytics Report
+
+**Purpose:** Empower businesses to monitor and evaluate sales activities and performance.
+
+**Key Reports:**
+
+*1) Customer Net Sales Performance:*
+
+* Compare net sales to customers from 2019 to 2021.
+* Highlight growth in net sales in 2021 compared to the previous year.
+*2) Market Performance vs Targets:*
+- Compare net sales from 2019 to 2021 for respective markets.
+- Assess how the company aligns with sales targets in various markets.
+
+*3)  Top 10 Products Growth (2021):*
+
+- Compare sales of top 10 products from 2020 to 2021, emphasizing 2021 growth.
+
+*4) Division-wise Net Sales (2020 and 2021):*
+- Compare net sales data from 2020 to 2021 across three divisions.
+*5) Top 5 and Bottom 5 Products (Quantity Sold):*
+- Identify top and bottom 5 products based on quantity sold.
+
+*6) New Products Launched (2021):*
+
+        Examine net sales of products launched in 2021.
+
+    Top 5 Countries by Net Sales (2021):
+        Identify top 5 countries/markets in terms of sales in 2021.
+
+Project 2: Finance Analytics Report
+
+Purpose: Evaluate financial performance, support decision-making, and communicate with stakeholders.
+
+Key Reports:
+
+    P & L by Fiscal Years (FY):
+        Compare metrics from 2019 to 2021, showing growth breakdown in 2021.
+
+    P & L by Fiscal Quarters:
+        Compare metrics for different quarters spanning from 2019 to 2021.
+
+    Market-wise P & L:
+        Compare metrics by market for different fiscal years.
+
+    GM% by Quarters (Sub_zone):
+        Compare Gross Margin percentage in various subzones.
+
+Tools and Techniques Used for Data Analysis:
+
+    Power Query:
+        Extract and transform data from csv files/workbooks.
+        Group queries and load transformed data to the data model.
+
+    Power Pivot:
+        Establish connections between dimension and fact tables.
+        Import useful columns, generate calculated columns and measures.
+
+    Pivot Tables:
+        Summarize data in the data model.
+        Perform "Slice and dice" operations to generate reports.
+
+    Conditional Formatting:
+        Highlight metrics figures for easy comparison.
+
+    Miscellaneous Formatting:
+        Insert company name and logo as headers.
+        Insert page numbers as footers.
+
+Soft Skills:
+
+    Refined understanding of Sales & Finance Reports.
+    Designing user-centric reports with empathy.
+    Optimization of report generation through meticulous fine-tuning.
+    Developing a systematic approach to devising a report building plan.
+# Excel Analytics Project
+
+## Project Overview
+
+***AtliQ Hardwares***, a global computer peripherals manufacturer, aims to analyze sales and finance data to gain valuable insights.
+
+### Project 1: Sales Analytics Report
+
+**Purpose:** Empower businesses to monitor and evaluate sales activities and performance.
+
+**Key Reports:**
+
+*1) Customer Net Sales Performance:*
+
+* Compare net sales to customers from 2019 to 2021.
+* Highlight growth in net sales in 2021 compared to the previous year.
+*2) Market Performance vs Targets:*
+- Compare net sales from 2019 to 2021 for respective markets.
+- Assess how the company aligns with sales targets in various markets.
+
+*3)  Top 10 Products Growth (2021):*
+
+- Compare sales of top 10 products from 2020 to 2021, emphasizing 2021 growth.
+
+*4) Division-wise Net Sales (2020 and 2021):*
+- Compare net sales data from 2020 to 2021 across three divisions.
+*5) Top 5 and Bottom 5 Products (Quantity Sold):*
+- Identify top and bottom 5 products based on quantity sold.
+
+*6) New Products Launched (2021):*
+
+        Examine net sales of products launched in 2021.
+
+    Top 5 Countries by Net Sales (2021):
+        Identify top 5 countries/markets in terms of sales in 2021.
+
+Project 2: Finance Analytics Report
+
+Purpose: Evaluate financial performance, support decision-making, and communicate with stakeholders.
+
+Key Reports:
+
+    P & L by Fiscal Years (FY):
+        Compare metrics from 2019 to 2021, showing growth breakdown in 2021.
+
+    P & L by Fiscal Quarters:
+        Compare metrics for different quarters spanning from 2019 to 2021.
+
+    Market-wise P & L:
+        Compare metrics by market for different fiscal years.
+
+    GM% by Quarters (Sub_zone):
+        Compare Gross Margin percentage in various subzones.
+
+Tools and Techniques Used for Data Analysis:
+
+    Power Query:
+        Extract and transform data from csv files/workbooks.
+        Group queries and load transformed data to the data model.
+
+    Power Pivot:
+        Establish connections between dimension and fact tables.
+        Import useful columns, generate calculated columns and measures.
+
+    Pivot Tables:
+        Summarize data in the data model.
+        Perform "Slice and dice" operations to generate reports.
+
+    Conditional Formatting:
+        Highlight metrics figures for easy comparison.
+
+    Miscellaneous Formatting:
+        Insert company name and logo as headers.
+        Insert page numbers as footers.
+
+Soft Skills:
+
+    Refined understanding of Sales & Finance Reports.
+    Designing user-centric reports with empathy.
+    Optimization of report generation through meticulous fine-tuning.
+    Developing a systematic approach to devising a report building plan.
+# Excel Analytics Project
+
+## Project Overview
+
+***AtliQ Hardwares***, a global computer peripherals manufacturer, aims to analyze sales and finance data to gain valuable insights.
+
+### Project 1: Sales Analytics Report
+
+**Purpose:** Empower businesses to monitor and evaluate sales activities and performance.
+
+**Key Reports:**
+
+*1) Customer Net Sales Performance:*
+
+* Compare net sales to customers from 2019 to 2021.
+* Highlight growth in net sales in 2021 compared to the previous year.
+*2) Market Performance vs Targets:*
+- Compare net sales from 2019 to 2021 for respective markets.
+- Assess how the company aligns with sales targets in various markets.
+
+*3)  Top 10 Products Growth (2021):*
+
+- Compare sales of top 10 products from 2020 to 2021, emphasizing 2021 growth.
+
+*4) Division-wise Net Sales (2020 and 2021):*
+- Compare net sales data from 2020 to 2021 across three divisions.
+*5) Top 5 and Bottom 5 Products (Quantity Sold):*
+- Identify top and bottom 5 products based on quantity sold.
+
+*6) New Products Launched (2021):*
+
+        Examine net sales of products launched in 2021.
+
+    Top 5 Countries by Net Sales (2021):
+        Identify top 5 countries/markets in terms of sales in 2021.
+
+Project 2: Finance Analytics Report
+
+Purpose: Evaluate financial performance, support decision-making, and communicate with stakeholders.
+
+Key Reports:
+
+    P & L by Fiscal Years (FY):
+        Compare metrics from 2019 to 2021, showing growth breakdown in 2021.
+
+    P & L by Fiscal Quarters:
+        Compare metrics for different quarters spanning from 2019 to 2021.
+
+    Market-wise P & L:
+        Compare metrics by market for different fiscal years.
+
+    GM% by Quarters (Sub_zone):
+        Compare Gross Margin percentage in various subzones.
+
+Tools and Techniques Used for Data Analysis:
+
+    Power Query:
+        Extract and transform data from csv files/workbooks.
+        Group queries and load transformed data to the data model.
+
+    Power Pivot:
+        Establish connections between dimension and fact tables.
+        Import useful columns, generate calculated columns and measures.
+
+    Pivot Tables:
+        Summarize data in the data model.
+        Perform "Slice and dice" operations to generate reports.
+
+    Conditional Formatting:
+        Highlight metrics figures for easy comparison.
+
+    Miscellaneous Formatting:
+        Insert company name and logo as headers.
+        Insert page numbers as footers.
+
+Soft Skills:
+
+    Refined understanding of Sales & Finance Reports.
+    Designing user-centric reports with empathy.
+    Optimization of report generation through meticulous fine-tuning.
+    Developing a systematic approach to devising a report building plan.
+# Excel Analytics Project
+
+## Project Overview
+
+***AtliQ Hardwares***, a global computer peripherals manufacturer, aims to analyze sales and finance data to gain valuable insights.
+
+### Project 1: Sales Analytics Report
+
+**Purpose:** Empower businesses to monitor and evaluate sales activities and performance.
+
+**Key Reports:**
+
+*1) Customer Net Sales Performance:*
+
+* Compare net sales to customers from 2019 to 2021.
+* Highlight growth in net sales in 2021 compared to the previous year.
+*2) Market Performance vs Targets:*
+- Compare net sales from 2019 to 2021 for respective markets.
+- Assess how the company aligns with sales targets in various markets.
+
+*3)  Top 10 Products Growth (2021):*
+
+- Compare sales of top 10 products from 2020 to 2021, emphasizing 2021 growth.
+
+*4) Division-wise Net Sales (2020 and 2021):*
+- Compare net sales data from 2020 to 2021 across three divisions.
+*5) Top 5 and Bottom 5 Products (Quantity Sold):*
+- Identify top and bottom 5 products based on quantity sold.
+
+*6) New Products Launched (2021):*
+
+        Examine net sales of products launched in 2021.
+
+    Top 5 Countries by Net Sales (2021):
+        Identify top 5 countries/markets in terms of sales in 2021.
+
+Project 2: Finance Analytics Report
+
+Purpose: Evaluate financial performance, support decision-making, and communicate with stakeholders.
+
+Key Reports:
+
+    P & L by Fiscal Years (FY):
+        Compare metrics from 2019 to 2021, showing growth breakdown in 2021.
+
+    P & L by Fiscal Quarters:
+        Compare metrics for different quarters spanning from 2019 to 2021.
+
+    Market-wise P & L:
+        Compare metrics by market for different fiscal years.
+
+    GM% by Quarters (Sub_zone):
+        Compare Gross Margin percentage in various subzones.
+
+Tools and Techniques Used for Data Analysis:
+
+    Power Query:
+        Extract and transform data from csv files/workbooks.
+        Group queries and load transformed data to the data model.
+
+    Power Pivot:
+        Establish connections between dimension and fact tables.
+        Import useful columns, generate calculated columns and measures.
+
+    Pivot Tables:
+        Summarize data in the data model.
+        Perform "Slice and dice" operations to generate reports.
+
+    Conditional Formatting:
+        Highlight metrics figures for easy comparison.
+
+    Miscellaneous Formatting:
+        Insert company name and logo as headers.
+        Insert page numbers as footers.
+
+Soft Skills:
+
+    Refined understanding of Sales & Finance Reports.
+    Designing user-centric reports with empathy.
+    Optimization of report generation through meticulous fine-tuning.
+    Developing a systematic approach to devising a report building plan.
+# Excel Analytics Project
+
+## Project Overview
+
+***AtliQ Hardwares***, a global computer peripherals manufacturer, aims to analyze sales and finance data to gain valuable insights.
+
+### Project 1: Sales Analytics Report
+
+**Purpose:** Empower businesses to monitor and evaluate sales activities and performance.
+
+**Key Reports:**
+
+*1) Customer Net Sales Performance:*
+
+* Compare net sales to customers from 2019 to 2021.
+* Highlight growth in net sales in 2021 compared to the previous year.
+*2) Market Performance vs Targets:*
+- Compare net sales from 2019 to 2021 for respective markets.
+- Assess how the company aligns with sales targets in various markets.
+
+*3)  Top 10 Products Growth (2021):*
+
+- Compare sales of top 10 products from 2020 to 2021, emphasizing 2021 growth.
+
+*4) Division-wise Net Sales (2020 and 2021):*
+- Compare net sales data from 2020 to 2021 across three divisions.
+*5) Top 5 and Bottom 5 Products (Quantity Sold):*
+- Identify top and bottom 5 products based on quantity sold.
+
+*6) New Products Launched (2021):*
+
+        Examine net sales of products launched in 2021.
+
+    Top 5 Countries by Net Sales (2021):
+        Identify top 5 countries/markets in terms of sales in 2021.
+
+Project 2: Finance Analytics Report
+
+Purpose: Evaluate financial performance, support decision-making, and communicate with stakeholders.
+
+Key Reports:
+
+    P & L by Fiscal Years (FY):
+        Compare metrics from 2019 to 2021, showing growth breakdown in 2021.
+
+    P & L by Fiscal Quarters:
+        Compare metrics for different quarters spanning from 2019 to 2021.
+
+    Market-wise P & L:
+        Compare metrics by market for different fiscal years.
+
+    GM% by Quarters (Sub_zone):
+        Compare Gross Margin percentage in various subzones.
+
+Tools and Techniques Used for Data Analysis:
+
+    Power Query:
+        Extract and transform data from csv files/workbooks.
+        Group queries and load transformed data to the data model.
+
+    Power Pivot:
+        Establish connections between dimension and fact tables.
+        Import useful columns, generate calculated columns and measures.
+
+    Pivot Tables:
+        Summarize data in the data model.
+        Perform "Slice and dice" operations to generate reports.
+
+    Conditional Formatting:
+        Highlight metrics figures for easy comparison.
+
+    Miscellaneous Formatting:
+        Insert company name and logo as headers.
+        Insert page numbers as footers.
+
+Soft Skills:
+
+    Refined understanding of Sales & Finance Reports.
+    Designing user-centric reports with empathy.
+    Optimization of report generation through meticulous fine-tuning.
+    Developing a systematic approach to devising a report building plan.
+# Excel Analytics Project
+
+## Project Overview
+
+***AtliQ Hardwares***, a global computer peripherals manufacturer, aims to analyze sales and finance data to gain valuable insights.
+
+### Project 1: Sales Analytics Report
+
+**Purpose:** Empower businesses to monitor and evaluate sales activities and performance.
+
+**Key Reports:**
+
+*1) Customer Net Sales Performance:*
+
+* Compare net sales to customers from 2019 to 2021.
+* Highlight growth in net sales in 2021 compared to the previous year.
+*2) Market Performance vs Targets:*
+- Compare net sales from 2019 to 2021 for respective markets.
+- Assess how the company aligns with sales targets in various markets.
+
+*3)  Top 10 Products Growth (2021):*
+
+- Compare sales of top 10 products from 2020 to 2021, emphasizing 2021 growth.
+
+*4) Division-wise Net Sales (2020 and 2021):*
+- Compare net sales data from 2020 to 2021 across three divisions.
+*5) Top 5 and Bottom 5 Products (Quantity Sold):*
+- Identify top and bottom 5 products based on quantity sold.
+
+*6) New Products Launched (2021):*
+
+        Examine net sales of products launched in 2021.
+
+    Top 5 Countries by Net Sales (2021):
+        Identify top 5 countries/markets in terms of sales in 2021.
+
+Project 2: Finance Analytics Report
+
+Purpose: Evaluate financial performance, support decision-making, and communicate with stakeholders.
+
+Key Reports:
+
+    P & L by Fiscal Years (FY):
+        Compare metrics from 2019 to 2021, showing growth breakdown in 2021.
+
+    P & L by Fiscal Quarters:
+        Compare metrics for different quarters spanning from 2019 to 2021.
+
+    Market-wise P & L:
+        Compare metrics by market for different fiscal years.
+
+    GM% by Quarters (Sub_zone):
+        Compare Gross Margin percentage in various subzones.
+
+Tools and Techniques Used for Data Analysis:
+
+    Power Query:
+        Extract and transform data from csv files/workbooks.
+        Group queries and load transformed data to the data model.
+
+    Power Pivot:
+        Establish connections between dimension and fact tables.
+        Import useful columns, generate calculated columns and measures.
+
+    Pivot Tables:
+        Summarize data in the data model.
+        Perform "Slice and dice" operations to generate reports.
+
+    Conditional Formatting:
+        Highlight metrics figures for easy comparison.
+
+    Miscellaneous Formatting:
+        Insert company name and logo as headers.
+        Insert page numbers as footers.
+
+Soft Skills:
+
+    Refined understanding of Sales & Finance Reports.
+    Designing user-centric reports with empathy.
+    Optimization of report generation through meticulous fine-tuning.
+    Developing a systematic approach to devising a report building plan.
+# Excel Analytics Project
+
+## Project Overview
+
+***AtliQ Hardwares***, a global computer peripherals manufacturer, aims to analyze sales and finance data to gain valuable insights.
+
+### Project 1: Sales Analytics Report
+
+**Purpose:** Empower businesses to monitor and evaluate sales activities and performance.
+
+**Key Reports:**
+
+*1) Customer Net Sales Performance:*
+
+* Compare net sales to customers from 2019 to 2021.
+* Highlight growth in net sales in 2021 compared to the previous year.
+*2) Market Performance vs Targets:*
+- Compare net sales from 2019 to 2021 for respective markets.
+- Assess how the company aligns with sales targets in various markets.
+
+*3)  Top 10 Products Growth (2021):*
+
+- Compare sales of top 10 products from 2020 to 2021, emphasizing 2021 growth.
+
+*4) Division-wise Net Sales (2020 and 2021):*
+- Compare net sales data from 2020 to 2021 across three divisions.
+*5) Top 5 and Bottom 5 Products (Quantity Sold):*
+- Identify top and bottom 5 products based on quantity sold.
+
+*6) New Products Launched (2021):*
+
+        Examine net sales of products launched in 2021.
+
+    Top 5 Countries by Net Sales (2021):
+        Identify top 5 countries/markets in terms of sales in 2021.
+
+Project 2: Finance Analytics Report
+
+Purpose: Evaluate financial performance, support decision-making, and communicate with stakeholders.
+
+Key Reports:
+
+    P & L by Fiscal Years (FY):
+        Compare metrics from 2019 to 2021, showing growth breakdown in 2021.
+
+    P & L by Fiscal Quarters:
+        Compare metrics for different quarters spanning from 2019 to 2021.
+
+    Market-wise P & L:
+        Compare metrics by market for different fiscal years.
+
+    GM% by Quarters (Sub_zone):
+        Compare Gross Margin percentage in various subzones.
+
+Tools and Techniques Used for Data Analysis:
+
+    Power Query:
+        Extract and transform data from csv files/workbooks.
+        Group queries and load transformed data to the data model.
+
+    Power Pivot:
+        Establish connections between dimension and fact tables.
+        Import useful columns, generate calculated columns and measures.
+
+    Pivot Tables:
+        Summarize data in the data model.
+        Perform "Slice and dice" operations to generate reports.
+
+    Conditional Formatting:
+        Highlight metrics figures for easy comparison.
+
+    Miscellaneous Formatting:
+        Insert company name and logo as headers.
+        Insert page numbers as footers.
+
+Soft Skills:
+
+    Refined understanding of Sales & Finance Reports.
+    Designing user-centric reports with empathy.
+    Optimization of report generation through meticulous fine-tuning.
+    Developing a systematic approach to devising a report building plan.
+# Excel Analytics Project
+
+## Project Overview
+
+***AtliQ Hardwares***, a global computer peripherals manufacturer, aims to analyze sales and finance data to gain valuable insights.
+
+### Project 1: Sales Analytics Report
+
+**Purpose:** Empower businesses to monitor and evaluate sales activities and performance.
+
+**Key Reports:**
+
+*1) Customer Net Sales Performance:*
+
+* Compare net sales to customers from 2019 to 2021.
+* Highlight growth in net sales in 2021 compared to the previous year.
+*2) Market Performance vs Targets:*
+- Compare net sales from 2019 to 2021 for respective markets.
+- Assess how the company aligns with sales targets in various markets.
+
+*3)  Top 10 Products Growth (2021):*
+
+- Compare sales of top 10 products from 2020 to 2021, emphasizing 2021 growth.
+
+*4) Division-wise Net Sales (2020 and 2021):*
+- Compare net sales data from 2020 to 2021 across three divisions.
+*5) Top 5 and Bottom 5 Products (Quantity Sold):*
+- Identify top and bottom 5 products based on quantity sold.
+
+*6) New Products Launched (2021):*
+
+        Examine net sales of products launched in 2021.
+
+    Top 5 Countries by Net Sales (2021):
+        Identify top 5 countries/markets in terms of sales in 2021.
+
+Project 2: Finance Analytics Report
+
+Purpose: Evaluate financial performance, support decision-making, and communicate with stakeholders.
+
+Key Reports:
+
+    P & L by Fiscal Years (FY):
+        Compare metrics from 2019 to 2021, showing growth breakdown in 2021.
+
+    P & L by Fiscal Quarters:
+        Compare metrics for different quarters spanning from 2019 to 2021.
+
+    Market-wise P & L:
+        Compare metrics by market for different fiscal years.
+
+    GM% by Quarters (Sub_zone):
+        Compare Gross Margin percentage in various subzones.
+
+Tools and Techniques Used for Data Analysis:
+
+    Power Query:
+        Extract and transform data from csv files/workbooks.
+        Group queries and load transformed data to the data model.
+
+    Power Pivot:
+        Establish connections between dimension and fact tables.
+        Import useful columns, generate calculated columns and measures.
+
+    Pivot Tables:
+        Summarize data in the data model.
+        Perform "Slice and dice" operations to generate reports.
+
+    Conditional Formatting:
+        Highlight metrics figures for easy comparison.
+
+    Miscellaneous Formatting:
+        Insert company name and logo as headers.
+        Insert page numbers as footers.
+
+Soft Skills:
+
+    Refined understanding of Sales & Finance Reports.
+    Designing user-centric reports with empathy.
+    Optimization of report generation through meticulous fine-tuning.
+    Developing a systematic approach to devising a report building plan.
+# Excel Analytics Project
+
+## Project Overview
+
+***AtliQ Hardwares***, a global computer peripherals manufacturer, aims to analyze sales and finance data to gain valuable insights.
+
+### Project 1: Sales Analytics Report
+
+**Purpose:** Empower businesses to monitor and evaluate sales activities and performance.
+
+**Key Reports:**
+
+*1) Customer Net Sales Performance:*
+
+* Compare net sales to customers from 2019 to 2021.
+* Highlight growth in net sales in 2021 compared to the previous year.
+*2) Market Performance vs Targets:*
+- Compare net sales from 2019 to 2021 for respective markets.
+- Assess how the company aligns with sales targets in various markets.
+
+*3)  Top 10 Products Growth (2021):*
+
+- Compare sales of top 10 products from 2020 to 2021, emphasizing 2021 growth.
+
+*4) Division-wise Net Sales (2020 and 2021):*
+- Compare net sales data from 2020 to 2021 across three divisions.
+*5) Top 5 and Bottom 5 Products (Quantity Sold):*
+- Identify top and bottom 5 products based on quantity sold.
+
+*6) New Products Launched (2021):*
+
+        Examine net sales of products launched in 2021.
+
+    Top 5 Countries by Net Sales (2021):
+        Identify top 5 countries/markets in terms of sales in 2021.
+
+Project 2: Finance Analytics Report
+
+Purpose: Evaluate financial performance, support decision-making, and communicate with stakeholders.
+
+Key Reports:
+
+    P & L by Fiscal Years (FY):
+        Compare metrics from 2019 to 2021, showing growth breakdown in 2021.
+
+    P & L by Fiscal Quarters:
+        Compare metrics for different quarters spanning from 2019 to 2021.
+
+    Market-wise P & L:
+        Compare metrics by market for different fiscal years.
+
+    GM% by Quarters (Sub_zone):
+        Compare Gross Margin percentage in various subzones.
+
+Tools and Techniques Used for Data Analysis:
+
+    Power Query:
+        Extract and transform data from csv files/workbooks.
+        Group queries and load transformed data to the data model.
+
+    Power Pivot:
+        Establish connections between dimension and fact tables.
+        Import useful columns, generate calculated columns and measures.
+
+    Pivot Tables:
+        Summarize data in the data model.
+        Perform "Slice and dice" operations to generate reports.
+
+    Conditional Formatting:
+        Highlight metrics figures for easy comparison.
+
+    Miscellaneous Formatting:
+        Insert company name and logo as headers.
+        Insert page numbers as footers.
+
+Soft Skills:
+
+    Refined understanding of Sales & Finance Reports.
+    Designing user-centric reports with empathy.
+    Optimization of report generation through meticulous fine-tuning.
+    Developing a systematic approach to devising a report building plan.
+# Excel Analytics Project
+
+## Project Overview
+
+***AtliQ Hardwares***, a global computer peripherals manufacturer, aims to analyze sales and finance data to gain valuable insights.
+
+### Project 1: Sales Analytics Report
+
+**Purpose:** Empower businesses to monitor and evaluate sales activities and performance.
+
+**Key Reports:**
+
+*1) Customer Net Sales Performance:*
+
+* Compare net sales to customers from 2019 to 2021.
+* Highlight growth in net sales in 2021 compared to the previous year.
+*2) Market Performance vs Targets:*
+- Compare net sales from 2019 to 2021 for respective markets.
+- Assess how the company aligns with sales targets in various markets.
+
+*3)  Top 10 Products Growth (2021):*
+
+- Compare sales of top 10 products from 2020 to 2021, emphasizing 2021 growth.
+
+*4) Division-wise Net Sales (2020 and 2021):*
+- Compare net sales data from 2020 to 2021 across three divisions.
+*5) Top 5 and Bottom 5 Products (Quantity Sold):*
+- Identify top and bottom 5 products based on quantity sold.
+
+*6) New Products Launched (2021):*
+
+        Examine net sales of products launched in 2021.
+
+    Top 5 Countries by Net Sales (2021):
+        Identify top 5 countries/markets in terms of sales in 2021.
+
+Project 2: Finance Analytics Report
+
+Purpose: Evaluate financial performance, support decision-making, and communicate with stakeholders.
+
+Key Reports:
+
+    P & L by Fiscal Years (FY):
+        Compare metrics from 2019 to 2021, showing growth breakdown in 2021.
+
+    P & L by Fiscal Quarters:
+        Compare metrics for different quarters spanning from 2019 to 2021.
+
+    Market-wise P & L:
+        Compare metrics by market for different fiscal years.
+
+    GM% by Quarters (Sub_zone):
+        Compare Gross Margin percentage in various subzones.
+
+Tools and Techniques Used for Data Analysis:
+
+    Power Query:
+        Extract and transform data from csv files/workbooks.
+        Group queries and load transformed data to the data model.
+
+    Power Pivot:
+        Establish connections between dimension and fact tables.
+        Import useful columns, generate calculated columns and measures.
+
+    Pivot Tables:
+        Summarize data in the data model.
+        Perform "Slice and dice" operations to generate reports.
+
+    Conditional Formatting:
+        Highlight metrics figures for easy comparison.
+
+    Miscellaneous Formatting:
+        Insert company name and logo as headers.
+        Insert page numbers as footers.
+
+Soft Skills:
+
+    Refined understanding of Sales & Finance Reports.
+    Designing user-centric reports with empathy.
+    Optimization of report generation through meticulous fine-tuning.
+    Developing a systematic approach to devising a report building plan.
+# Excel Analytics Project
+
+## Project Overview
+
+***AtliQ Hardwares***, a global computer peripherals manufacturer, aims to analyze sales and finance data to gain valuable insights.
+
+### Project 1: Sales Analytics Report
+
+**Purpose:** Empower businesses to monitor and evaluate sales activities and performance.
+
+**Key Reports:**
+
+*1) Customer Net Sales Performance:*
+
+* Compare net sales to customers from 2019 to 2021.
+* Highlight growth in net sales in 2021 compared to the previous year.
+*2) Market Performance vs Targets:*
+- Compare net sales from 2019 to 2021 for respective markets.
+- Assess how the company aligns with sales targets in various markets.
+
+*3)  Top 10 Products Growth (2021):*
+
+- Compare sales of top 10 products from 2020 to 2021, emphasizing 2021 growth.
+
+*4) Division-wise Net Sales (2020 and 2021):*
+- Compare net sales data from 2020 to 2021 across three divisions.
+*5) Top 5 and Bottom 5 Products (Quantity Sold):*
+- Identify top and bottom 5 products based on quantity sold.
+
+*6) New Products Launched (2021):*
+
+        Examine net sales of products launched in 2021.
+
+    Top 5 Countries by Net Sales (2021):
+        Identify top 5 countries/markets in terms of sales in 2021.
+
+Project 2: Finance Analytics Report
+
+Purpose: Evaluate financial performance, support decision-making, and communicate with stakeholders.
+
+Key Reports:
+
+    P & L by Fiscal Years (FY):
+        Compare metrics from 2019 to 2021, showing growth breakdown in 2021.
+
+    P & L by Fiscal Quarters:
+        Compare metrics for different quarters spanning from 2019 to 2021.
+
+    Market-wise P & L:
+        Compare metrics by market for different fiscal years.
+
+    GM% by Quarters (Sub_zone):
+        Compare Gross Margin percentage in various subzones.
+
+Tools and Techniques Used for Data Analysis:
+
+    Power Query:
+        Extract and transform data from csv files/workbooks.
+        Group queries and load transformed data to the data model.
+
+    Power Pivot:
+        Establish connections between dimension and fact tables.
+        Import useful columns, generate calculated columns and measures.
+
+    Pivot Tables:
+        Summarize data in the data model.
+        Perform "Slice and dice" operations to generate reports.
+
+    Conditional Formatting:
+        Highlight metrics figures for easy comparison.
+
+    Miscellaneous Formatting:
+        Insert company name and logo as headers.
+        Insert page numbers as footers.
+
+Soft Skills:
+
+    Refined understanding of Sales & Finance Reports.
+    Designing user-centric reports with empathy.
+    Optimization of report generation through meticulous fine-tuning.
+    Developing a systematic approach to devising a report building plan.
+# Excel Analytics Project
+
+## Project Overview
+
+***AtliQ Hardwares***, a global computer peripherals manufacturer, aims to analyze sales and finance data to gain valuable insights.
+
+### Project 1: Sales Analytics Report
+
+**Purpose:** Empower businesses to monitor and evaluate sales activities and performance.
+
+**Key Reports:**
+
+*1) Customer Net Sales Performance:*
+
+* Compare net sales to customers from 2019 to 2021.
+* Highlight growth in net sales in 2021 compared to the previous year.
+*2) Market Performance vs Targets:*
+- Compare net sales from 2019 to 2021 for respective markets.
+- Assess how the company aligns with sales targets in various markets.
+
+*3)  Top 10 Products Growth (2021):*
+
+- Compare sales of top 10 products from 2020 to 2021, emphasizing 2021 growth.
+
+*4) Division-wise Net Sales (2020 and 2021):*
+- Compare net sales data from 2020 to 2021 across three divisions.
+*5) Top 5 and Bottom 5 Products (Quantity Sold):*
+- Identify top and bottom 5 products based on quantity sold.
+
+*6) New Products Launched (2021):*
+
+        Examine net sales of products launched in 2021.
+
+    Top 5 Countries by Net Sales (2021):
+        Identify top 5 countries/markets in terms of sales in 2021.
+
+Project 2: Finance Analytics Report
+
+Purpose: Evaluate financial performance, support decision-making, and communicate with stakeholders.
+
+Key Reports:
+
+    P & L by Fiscal Years (FY):
+        Compare metrics from 2019 to 2021, showing growth breakdown in 2021.
+
+    P & L by Fiscal Quarters:
+        Compare metrics for different quarters spanning from 2019 to 2021.
+
+    Market-wise P & L:
+        Compare metrics by market for different fiscal years.
+
+    GM% by Quarters (Sub_zone):
+        Compare Gross Margin percentage in various subzones.
+
+Tools and Techniques Used for Data Analysis:
+
+    Power Query:
+        Extract and transform data from csv files/workbooks.
+        Group queries and load transformed data to the data model.
+
+    Power Pivot:
+        Establish connections between dimension and fact tables.
+        Import useful columns, generate calculated columns and measures.
+
+    Pivot Tables:
+        Summarize data in the data model.
+        Perform "Slice and dice" operations to generate reports.
+
+    Conditional Formatting:
+        Highlight metrics figures for easy comparison.
+
+    Miscellaneous Formatting:
+        Insert company name and logo as headers.
+        Insert page numbers as footers.
+
+Soft Skills:
+
+    Refined understanding of Sales & Finance Reports.
+    Designing user-centric reports with empathy.
+    Optimization of report generation through meticulous fine-tuning.
+    Developing a systematic approach to devising a report building plan.
+# Excel Analytics Project
+
+## Project Overview
+
+***AtliQ Hardwares***, a global computer peripherals manufacturer, aims to analyze sales and finance data to gain valuable insights.
+
+### Project 1: Sales Analytics Report
+
+**Purpose:** Empower businesses to monitor and evaluate sales activities and performance.
+
+**Key Reports:**
+
+*1) Customer Net Sales Performance:*
+
+* Compare net sales to customers from 2019 to 2021.
+* Highlight growth in net sales in 2021 compared to the previous year.
+*2) Market Performance vs Targets:*
+- Compare net sales from 2019 to 2021 for respective markets.
+- Assess how the company aligns with sales targets in various markets.
+
+*3)  Top 10 Products Growth (2021):*
+
+- Compare sales of top 10 products from 2020 to 2021, emphasizing 2021 growth.
+
+*4) Division-wise Net Sales (2020 and 2021):*
+- Compare net sales data from 2020 to 2021 across three divisions.
+*5) Top 5 and Bottom 5 Products (Quantity Sold):*
+- Identify top and bottom 5 products based on quantity sold.
+
+*6) New Products Launched (2021):*
+
+        Examine net sales of products launched in 2021.
+
+    Top 5 Countries by Net Sales (2021):
+        Identify top 5 countries/markets in terms of sales in 2021.
+
+Project 2: Finance Analytics Report
+
+Purpose: Evaluate financial performance, support decision-making, and communicate with stakeholders.
+
+Key Reports:
+
+    P & L by Fiscal Years (FY):
+        Compare metrics from 2019 to 2021, showing growth breakdown in 2021.
+
+    P & L by Fiscal Quarters:
+        Compare metrics for different quarters spanning from 2019 to 2021.
+
+    Market-wise P & L:
+        Compare metrics by market for different fiscal years.
+
+    GM% by Quarters (Sub_zone):
+        Compare Gross Margin percentage in various subzones.
+
+Tools and Techniques Used for Data Analysis:
+
+    Power Query:
+        Extract and transform data from csv files/workbooks.
+        Group queries and load transformed data to the data model.
+
+    Power Pivot:
+        Establish connections between dimension and fact tables.
+        Import useful columns, generate calculated columns and measures.
+
+    Pivot Tables:
+        Summarize data in the data model.
+        Perform "Slice and dice" operations to generate reports.
+
+    Conditional Formatting:
+        Highlight metrics figures for easy comparison.
+
+    Miscellaneous Formatting:
+        Insert company name and logo as headers.
+        Insert page numbers as footers.
+
+Soft Skills:
+
+    Refined understanding of Sales & Finance Reports.
+    Designing user-centric reports with empathy.
+    Optimization of report generation through meticulous fine-tuning.
+    Developing a systematic approach to devising a report building plan.
+# Excel Analytics Project
+
+## Project Overview
+
+***AtliQ Hardwares***, a global computer peripherals manufacturer, aims to analyze sales and finance data to gain valuable insights.
+
+### Project 1: Sales Analytics Report
+
+**Purpose:** Empower businesses to monitor and evaluate sales activities and performance.
+
+**Key Reports:**
+
+*1) Customer Net Sales Performance:*
+
+* Compare net sales to customers from 2019 to 2021.
+* Highlight growth in net sales in 2021 compared to the previous year.
+*2) Market Performance vs Targets:*
+- Compare net sales from 2019 to 2021 for respective markets.
+- Assess how the company aligns with sales targets in various markets.
+
+*3)  Top 10 Products Growth (2021):*
+
+- Compare sales of top 10 products from 2020 to 2021, emphasizing 2021 growth.
+
+*4) Division-wise Net Sales (2020 and 2021):*
+- Compare net sales data from 2020 to 2021 across three divisions.
+*5) Top 5 and Bottom 5 Products (Quantity Sold):*
+- Identify top and bottom 5 products based on quantity sold.
+
+*6) New Products Launched (2021):*
+
+        Examine net sales of products launched in 2021.
+
+    Top 5 Countries by Net Sales (2021):
+        Identify top 5 countries/markets in terms of sales in 2021.
+
+Project 2: Finance Analytics Report
+
+Purpose: Evaluate financial performance, support decision-making, and communicate with stakeholders.
+
+Key Reports:
+
+    P & L by Fiscal Years (FY):
+        Compare metrics from 2019 to 2021, showing growth breakdown in 2021.
+
+    P & L by Fiscal Quarters:
+        Compare metrics for different quarters spanning from 2019 to 2021.
+
+    Market-wise P & L:
+        Compare metrics by market for different fiscal years.
+
+    GM% by Quarters (Sub_zone):
+        Compare Gross Margin percentage in various subzones.
+
+Tools and Techniques Used for Data Analysis:
+
+    Power Query:
+        Extract and transform data from csv files/workbooks.
+        Group queries and load transformed data to the data model.
+
+    Power Pivot:
+        Establish connections between dimension and fact tables.
+        Import useful columns, generate calculated columns and measures.
+
+    Pivot Tables:
+        Summarize data in the data model.
+        Perform "Slice and dice" operations to generate reports.
+
+    Conditional Formatting:
+        Highlight metrics figures for easy comparison.
+
+    Miscellaneous Formatting:
+        Insert company name and logo as headers.
+        Insert page numbers as footers.
+
+Soft Skills:
+
+    Refined understanding of Sales & Finance Reports.
+    Designing user-centric reports with empathy.
+    Optimization of report generation through meticulous fine-tuning.
+    Developing a systematic approach to devising a report building plan.
+# Excel Analytics Project
+
 ## Project Overview:
 AtliQ Hardwares, a fictitious global manufacturer of computer peripherals wants their sales and finance data to be analyzed, and generate reports to gain valuable insights
 
