@@ -15,12 +15,12 @@ Empower businesses to monitor and evaluate sales activities and performance.
 #### Key Reports and their PDF links:
 **1. Customer Net Sales Performance:** 
 
- - Year-wise(Fiscal Years:2019,2020,2021) comparison of net sales for individual markets.
+ - Year-wise(Fiscal Years:2019,2020,2021) comparison of net sales for individual customers.
  - Highlight growth in net sales in 2021 compared to the previous year for individual customers.
 
 **2. Market Performance vs Targets:**
 
- - Market-wise comparison of net sales figures for Fiscal Years: 2019,2020, and 2021.
+ - Year-wise(Fiscal Years:2019,2020,2021) comparison of net sales for individual markets.
  - Assessing the alignment of 2021 sales figures with the company targets for individual markets .
 
 **3. Top 10 Products Growth (2021):**
