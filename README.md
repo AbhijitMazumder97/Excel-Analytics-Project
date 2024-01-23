@@ -9,34 +9,40 @@
 #### Purpose: 
 Empower businesses to monitor and evaluate sales activities and performance.
 
-#### Project Report PDF link:
-[https://github.com/AbhijitMazumder97/Excel-Analytics-Project/blob/main/sales_analytics_report.pdf]
-
 #### Key Reports and their PDF links:
-**1. Customer Net Sales Performance:** 
+**1. Customer Net Sales Performance:** [https://github.com/AbhijitMazumder97/Excel-Analytics-Project/blob/main/Customer%20Net%20Sales%20Performance.pdf]
 
- - Year-wise(Fiscal Years:2019,2020,2021) comparison of net sales for individual customers.
+ - Net sales comparison by year (Fiscal Years: 2019–2020, 2021–2022) for each individual customer.
  - Highlight growth in net sales in 2021 compared to the previous year for individual customers.
 
-**2. Market Performance vs Targets:**
+**2. Market Performance vs Targets:** [https://github.com/AbhijitMazumder97/Excel-Analytics-Project/blob/main/market%20performance%20vs%20target.pdf]
 
  - Year-wise(Fiscal Years:2019,2020,2021) comparison of net sales for individual markets.
  - Assessing the alignment of 2021 sales figures with the company targets for individual markets .
 
-**3. Top 10 Products Growth (2021):**
+**3. Top 10 Products Growth (2021):** [https://github.com/AbhijitMazumder97/Excel-Analytics-Project/blob/main/Top%2010%20Products.pdf]
 
- - Compare sales of the top 10 products from 2020 to 2021, emphasizing 2021 growth.
- - Division-wise Net Sales (2020 and 2021):
- - Compare net sales data from 2020 to 2021 across three divisions.
+ - Top 10 Products by Net Sales growth in 2021 compared to 2020.
+ -  Compare the Net Sales figures of top 10 products for fiscal years: 2020 and 2021.
 
-**4. Top 5 and Bottom 5 Products (Quantity Sold):**
+**4.  Division-wise Net Sales (2020 and 2021):** [https://github.com/AbhijitMazumder97/Excel-Analytics-Project/blob/main/Division%20Level%20Report.pdf]
+
+ - Compare the net sales data  for individual divisions: National Sales Division(N&S), Presentation and Advertising Division(P&A), Personal Computers Division (PC) in the fiscal years 2020 and 2021.
+ - Display the percentage growth in net sales in fiscal year 2021 for each individual division.
+
+   
+**5. Top 5 and Bottom 5 Products (Quantity Sold):** [https://github.com/AbhijitMazumder97/Excel-Analytics-Project/blob/main/Top5Bottom5.pdf]
+
  - Identify top and bottom 5 products based on quantity sold.
 
-**5. New Products Launched (2021):**
+**6. New Products Launched (2021):** [https://github.com/AbhijitMazumder97/Excel-Analytics-Project/blob/main/New%20products%20launched%20in%202021.pdf]
+
  - Examine net sales of products launched in 2021.
 
-**6. Top 5 Countries by Net Sales (2021):**
+**7. Top 5 Countries by Net Sales (2021):** [https://github.com/AbhijitMazumder97/Excel-Analytics-Project/blob/main/Top5countries.pdf]
+
  - Identify the top 5 countries/markets in terms of sales in 2021.
+
 
 ### Project 2: Finance Analytics Report
 
@@ -45,17 +51,23 @@ Evaluate financial performance, support decision-making, and communicate with st
 
 #### Key Reports and their PDF links:
 
-**1. P & L by Fiscal Years (FY):** [https://github.com/AbhijitMazumder97/Excel-Analytics-Project/blob/main/P%26L%20by%20fiscal%20years.pdf]
- - Compare metrics from 2019 to 2021, showing growth breakdown in 2021.
+**1. P & L by Fiscal Years (FY):** [https://github.com/AbhijitMazumder97/Excel-Analytics-Project/blob/main/P%26L%20by%20fiscal%20years22.pdf]
+
+ - Financial metrics comparison: Net Sales, COGS, Gross Margin, GM% for fiscal years 2019,2020,2021.
+ - Highlight the 2021 financial metrics growth over 2020.
 
 **2. P & L by Fiscal Quarters:** [https://github.com/AbhijitMazumder97/Excel-Analytics-Project/blob/main/P%26L%20by%20fiscal%20quarters.pdf]
- - Compare metrics for different quarters spanning from 2019 to 2021.
+
+ - Quarter-wise Financial metrics comparison: Net Sales, COGS, Gross Margin, GM% for fiscal years 2019,2020,2021.
+ - Net Sales comparison: 2021 vs 2020 and 2020 vs 2019.
 
 **3. Market-wise P & L:** [https://github.com/AbhijitMazumder97/Excel-Analytics-Project/blob/main/P%26L%20for%20markets.pdf]
- - Compare metrics by the market for different fiscal years.
+
+ - 2021 Market-wise Financial Metrics Comparison: Net Sales, COGS, Gross Margin, GM%.
 
 **4. GM% by Quarters (Sub_zone):** [https://github.com/AbhijitMazumder97/Excel-Analytics-Project/blob/main/subzone_wise%20GM%25by%20Quarters.pdf]
- - Compare Gross Margin percentage in various subzones.
+
+ - Quarter-wise Gross Margin Percentage(GM%) comparison across different subzones (namely ANZ,India,NA,NE,ROA,SE) for Fiscal Years:2019,2020,2021.
 
 
 ## Tools and Techniques Used for Data Analysis:
@@ -63,6 +75,7 @@ Evaluate financial performance, support decision-making, and communicate with st
 **Power Query:**
  - Extract and transform data from CSV files/workbooks.
  - Group queries and load transformed data to the data model.
+ - Create blank queries.
 
 **Power Pivot:**
  - Establish connections between dimension and fact tables.
@@ -71,9 +84,11 @@ Evaluate financial performance, support decision-making, and communicate with st
 **Pivot Tables:**
  - Summarize data in the data model.
  - Perform "Slice and dice" operations to generate reports.
+ - Value Field Formating to present the large metrics figures into short custom formats.
+ - Creating Custom Pivot Style to beautify the reports.
 
 **Conditional Formatting:**
- - Highlight metrics figures for easy comparison.
+ - Highlight metrics figures for easy comparison using different colors and data bars.
 
 **Miscellaneous Formatting:**
  - Insert company name and logo as headers.
