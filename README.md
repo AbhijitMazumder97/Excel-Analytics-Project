@@ -10,38 +10,36 @@
 Empower businesses to monitor and evaluate sales activities and performance.
 
 #### Key Reports and their PDF links:
-**1. Customer Net Sales Performance:** [https://github.com/AbhijitMazumder97/Excel-Analytics-Project/blob/main/Customer%20Net%20Sales%20Performance.pdf]
+**1. Customer Net Sales Performance:** [https://github.com/AbhijitMazumder97/Excel-Analytics-Project/blob/main/Cnsp.pdf]
 
  - Net sales comparison by year (Fiscal Years: 2019–2020, 2021–2022) for each individual customer.
  - Highlight growth in net sales in 2021 compared to the previous year for individual customers.
 
-**2. Market Performance vs Targets:** [https://github.com/AbhijitMazumder97/Excel-Analytics-Project/blob/main/market%20performance%20vs%20target.pdf]
+**2. Market Performance vs Targets:** [https://github.com/AbhijitMazumder97/Excel-Analytics-Project/blob/main/mpt.pdf]
 
  - Year-wise(Fiscal Years:2019,2020,2021) comparison of net sales for individual markets.
  - Assessing the alignment of 2021 sales figures with the company targets for individual markets .
 
-**3. Top 10 Products Growth (2021):** [https://github.com/AbhijitMazumder97/Excel-Analytics-Project/blob/main/Top%2010%20Products.pdf]
+**3. Top 10 Products Growth (2021):** [https://github.com/AbhijitMazumder97/Excel-Analytics-Project/blob/main/top10.pdf]
 
  - Top 10 Products by Net Sales growth in 2021 compared to 2020.
  -  Compare the Net Sales figures of top 10 products for fiscal years: 2020 and 2021.
 
-**4.  Division-wise Net Sales (2020 and 2021):** [https://github.com/AbhijitMazumder97/Excel-Analytics-Project/blob/main/Division%20Level%20Report.pdf]
+**4.  Division-wise Net Sales (2020 and 2021):** [https://github.com/AbhijitMazumder97/Excel-Analytics-Project/blob/main/div.pdf]
 
  - Compare the net sales data  for individual divisions: National Sales Division(N&S), Presentation and Advertising Division(P&A), Personal Computers Division (PC) in the fiscal years 2020 and 2021.
  - Display the percentage growth in net sales in fiscal year 2021 for each individual division.
 
    
-**5. Top 5 and Bottom 5 Products (Quantity Sold):** [https://github.com/AbhijitMazumder97/Excel-Analytics-Project/blob/main/Top5Bottom5.pdf]
+**5. Top 5 and Bottom 5 Products (Quantity Sold):** [https://github.com/AbhijitMazumder97/Excel-Analytics-Project/blob/main/top5bottom5.pdf]
 
  - Identify top and bottom 5 products based on quantity sold.
 
-**6. New Products Launched (2021):** [https://github.com/AbhijitMazumder97/Excel-Analytics-Project/blob/main/New%20products%20launched%20in%202021.pdf]
+**6. New Products Launched (2021):** [https://github.com/AbhijitMazumder97/Excel-Analytics-Project/blob/main/2021new.pdf]
 
  - Examine net sales of products launched in 2021.
 
-**7. Top 5 Countries by Net Sales (2021):** [https://github.com/AbhijitMazumder97/Excel-Analytics-Project/blob/main/Top5countries.pdf]
 
- - Identify the top 5 countries/markets in terms of sales in 2021.
 
 
 ### Project 2: Finance Analytics Report
