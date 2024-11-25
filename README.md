@@ -92,6 +92,8 @@ Evaluate financial performance, support decision-making, and communicate with st
  - Insert company name and logo as headers.
  - Insert page numbers as footers.
 
+   <iframe width="700" height="900" frameborder="0" scrolling="no" src="https://1drv.ms/x/c/462cecb3b51e1d91/IQSWjTmT9PhTT7jIOLGrb1eqAV2uSQE4FAjUUP_gFIeJBB8?em=2&ActiveCell='Coffee%20Shop%20Sales%20Dasboard'!A1&Item='Coffee%20Shop%20Sales%20Dasboard'!A1%3AT52&wdHideGridlines=True&wdInConfigurator=True&wdInConfigurator=True"></iframe>
+
 ## Soft Skills:
 - [X]  Refined understanding of Sales & Finance Reports.
 - [x]  Designing user-centric reports with empathy.
